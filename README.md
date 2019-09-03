@@ -7,6 +7,14 @@ The complete guide is available here https://medium.com/@connectycube/xmpp-real-
 If you are interested in a complete cross-platform real-time Chat app - try
 [ConnectyCube](https://connectycube.com/), it provides a [JavaScript SDK](https://developers.connectycube.com/js/) for real-time messaging and video calling apps which works across Browser, React Native, Native Script and Node.js environments.
 
+
+The following code samples are available:
+
+- [Chat code sample](https://github.com/ConnectyCube/connectycube-reactnative-samples/tree/master/RNChat)
+- [Video Chat code sample](https://github.com/ConnectyCube/connectycube-reactnative-samples/tree/master/RNVideoChat)
+- [File upload code sample](https://github.com/ConnectyCube/connectycube-reactnative-samples/tree/master/RNUploadFiles)
+
+
 All the modern Chat features are supported:
 
 * 1–1 messaging
